@@ -14,18 +14,7 @@ A modern web application for simulated cryptocurrency mining with real-time trac
 - 🎨 Beautiful, responsive UI with modern animations
 
 ## Screenshots
-
-### Dashboard
-![Dashboard](https://images.unsplash.com/photo-1640340434855-6084b1f4901c?auto=format&fit=crop&w=1080)
-*Modern dashboard featuring real-time mining controls, earnings tracking, and cryptocurrency selection*
-
-### VIP Plans
-![VIP Plans](https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1080)
-*Premium plans offering enhanced mining rates and exclusive benefits*
-
-### Withdrawal System
-![Withdrawal](https://images.unsplash.com/photo-1621504450181-5d356f61d307?auto=format&fit=crop&w=1080)
-*Secure withdrawal interface with multi-cryptocurrency support*
+Checkout the Screenshots: https://github.com/mytrialsacc/Crypto-Mining-Platform/tree/main/Screenshots
 
 ## Tech Stack
 
