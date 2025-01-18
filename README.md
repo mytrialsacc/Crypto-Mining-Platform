@@ -16,6 +16,11 @@ A modern web application for simulated cryptocurrency mining with real-time trac
 ## Screenshots
 Checkout the Screenshots: https://github.com/mytrialsacc/Crypto-Mining-Platform/tree/main/Screenshots
 
+## Demo
+
+  **Login:** https://earnest-crostata-6f3669.netlify.app
+  **Credentials:** anas@gmail.com \ anas2023
+
 ## Tech Stack
 
 - **Frontend:**
